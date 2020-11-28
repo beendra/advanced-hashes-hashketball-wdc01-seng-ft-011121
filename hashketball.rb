@@ -137,6 +137,7 @@ def points_of_player(player_name, game)
 end
 
 def num_points_scored(player_name, points)
+  game_hash.each do |
   
 end
 
